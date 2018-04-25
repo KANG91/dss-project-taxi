@@ -1,4 +1,5 @@
-# New York Taxi Trip duration 
+﻿# New York Taxi Trip duration 
+
 
 ### Before Start..
 This is a first ML & kaggle project with my two great teammates, Sung in Ji, Moon SU Kim. We have tried to solve this project as Linear Regression, which is our first ML algorithm. Although I am not that good english writer, and we are new to data science, and machine learning, I hope you understand what we did. Appreciate in advance:)

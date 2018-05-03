@@ -8,8 +8,10 @@ This is a first ML & kaggle project with my two great teammates, Sung in Ji, Moo
 There are 1,458,644 taxi records from Jan, 01, 16 to June, 30, 16 that occured in New York. Independent variables are id which is unique value of each users, time when people pick up and drop off, place where people pick up and drop off given latitude, longitude, numbers how many people used and few more things. What we have to do was that predicted trip duration of next taxi user by using those past datas.
 
 ### Evaluation method
-Root Mean Squared Logarithmic Error
-![img](Evaluation_method.png)  
+Root Mean Squared Logarithmic Error  
+<p align="center">
+  <img src="Evaluation_method" width="350"/>
+</p>
 epsilon is the RMSLE value(score)  
 n is the total number of observations in the (public/private) data set,  
 p_i is prediction of trip duration, and  

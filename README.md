@@ -9,12 +9,12 @@ There are 1,458,644 taxi records from Jan, 01, 16 to June, 30, 16 that occured i
 
 ### Evaluation method
 Root Mean Squared Logarithmic Error
-$$\epsilon = \sqrt{\frac{1}{n} \sum_{i=1}^n (\log(p_i + 1) - \log(a_i+1))^2 }$$
-$\epsilon$ is the RMSLE value(score)
-$n$ is the total number of observations in the (public/private) data set,
-$p_i$ is prediction of trip duration, and
-$a_i$  is the actual trip duration for $i$.
-$log(x)$ is the natural logarithm of $x$
+![Evaluation_method](./Evaluation_method.png)
+epsilon is the RMSLE value(score)
+n is the total number of observations in the (public/private) data set,
+p_i is prediction of trip duration, and
+a_i is the actual trip duration for i.
+log(x) is the natural logarithm of x
 
 ### Things that we consiered
 - How to remove outliers

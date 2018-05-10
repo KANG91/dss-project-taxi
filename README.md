@@ -1,5 +1,5 @@
 ﻿# New York Taxi Trip duration 
-(please, follow this link if you are interested in my code [here!](https://github.com/KANG91/dss-project-taxi/blob/master/Kang/after_project_summary.ipynb)
+(please, follow this link if you are interested in my code [here!](https://github.com/KANG91/dss-project-taxi/blob/master/Kang/after_project_summary_.ipynb)
 
 ### Before Start..
 This is a first ML & kaggle project with my two great teammates, Sung in Ji, Moon SU Kim. We have tried to solve this project as Linear Regression, which is our first ML algorithm. Although I am not that good english writer, and we are new to data science, and machine learning, I hope you understand what we did. Appreciate in advance:)
